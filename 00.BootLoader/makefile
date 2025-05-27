@@ -1,6 +1,3 @@
-# file		makefile
-# date		2008/11/12
-# author	kkamagui 
 # brief		부트 로더를 빌드하기 위한 make 파일
 
 # 기본적으로 빌드를 수행할 목록

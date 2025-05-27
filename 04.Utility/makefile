@@ -1,6 +1,3 @@
-# file		makefile
-# date		2008/12/16
-# author	kkamagui 
 # brief		유틸리티를 생성하기 위한 make 파일
 
 # 기본적으로 빌드를 수행할 목록
